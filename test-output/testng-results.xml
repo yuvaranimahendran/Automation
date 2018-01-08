@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="714099" started-at="2018-01-03T12:49:34Z" finished-at="2018-01-03T13:01:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="714099" started-at="2018-01-03T12:49:34Z" finished-at="2018-01-03T13:01:28Z">
+      <class name="org.cuskwake.PropertyListingsTest">
+        <test-method status="PASS" signature="lauchBrowser()[pri:0, instance:org.cuskwake.PropertyListingsTest@72d818d1]" name="lauchBrowser" is-config="true" duration-ms="63554" started-at="2018-01-03T18:25:13Z" finished-at="2018-01-03T18:26:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method status="PASS" signature="aboutUsCushWake()[pri:0, instance:org.cuskwake.PropertyListingsTest@72d818d1]" name="aboutUsCushWake" duration-ms="37914" started-at="2018-01-03T18:26:17Z" finished-at="2018-01-03T18:26:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutUsCushWake -->
+        <test-method status="PASS" signature="closeFBApp()[pri:0, instance:org.cuskwake.PropertyListingsTest@72d818d1]" name="closeFBApp" is-config="true" duration-ms="837" started-at="2018-01-03T18:26:55Z" finished-at="2018-01-03T18:26:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFBApp -->
+      </class> <!-- org.cuskwake.PropertyListingsTest -->
+      <class name="org.cuskwake.CareersTest">
+        <test-method status="PASS" signature="lauchBrowser()[pri:0, instance:org.cuskwake.CareersTest@27c20538]" name="lauchBrowser" is-config="true" duration-ms="81087" started-at="2018-01-03T18:21:18Z" finished-at="2018-01-03T18:22:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method status="PASS" signature="aboutUsCushWake()[pri:0, instance:org.cuskwake.CareersTest@27c20538]" name="aboutUsCushWake" duration-ms="46481" started-at="2018-01-03T18:22:39Z" finished-at="2018-01-03T18:23:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutUsCushWake -->
+        <test-method status="PASS" signature="closeFBApp()[pri:0, instance:org.cuskwake.CareersTest@27c20538]" name="closeFBApp" is-config="true" duration-ms="0" started-at="2018-01-03T18:23:25Z" finished-at="2018-01-03T18:23:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFBApp -->
+      </class> <!-- org.cuskwake.CareersTest -->
+      <class name="org.cuskwake.OfficeLocationsTest">
+        <test-method status="PASS" signature="lauchBrowser()[pri:0, instance:org.cuskwake.OfficeLocationsTest@59494225]" name="lauchBrowser" is-config="true" duration-ms="73624" started-at="2018-01-03T18:29:55Z" finished-at="2018-01-03T18:31:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method status="PASS" signature="peopleFinderCushWake()[pri:0, instance:org.cuskwake.OfficeLocationsTest@59494225]" name="peopleFinderCushWake" duration-ms="18077" started-at="2018-01-03T18:31:09Z" finished-at="2018-01-03T18:31:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peopleFinderCushWake -->
+        <test-method status="PASS" signature="closeFBApp()[pri:0, instance:org.cuskwake.OfficeLocationsTest@59494225]" name="closeFBApp" is-config="true" duration-ms="848" started-at="2018-01-03T18:31:27Z" finished-at="2018-01-03T18:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFBApp -->
+      </class> <!-- org.cuskwake.OfficeLocationsTest -->
+      <class name="org.cuskwake.PeopleFinderTest">
+        <test-method status="PASS" signature="lauchBrowser()[pri:0, instance:org.cuskwake.PeopleFinderTest@6e06451e]" name="lauchBrowser" is-config="true" duration-ms="63097" started-at="2018-01-03T18:28:21Z" finished-at="2018-01-03T18:29:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method status="PASS" signature="peopleFinderCushWake()[pri:0, instance:org.cuskwake.PeopleFinderTest@6e06451e]" name="peopleFinderCushWake" duration-ms="30575" started-at="2018-01-03T18:29:24Z" finished-at="2018-01-03T18:29:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- peopleFinderCushWake -->
+        <test-method status="PASS" signature="closeFBApp()[pri:0, instance:org.cuskwake.PeopleFinderTest@6e06451e]" name="closeFBApp" is-config="true" duration-ms="832" started-at="2018-01-03T18:29:54Z" finished-at="2018-01-03T18:29:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFBApp -->
+      </class> <!-- org.cuskwake.PeopleFinderTest -->
+      <class name="org.cuskwake.SectorsTest">
+        <test-method status="PASS" signature="lauchBrowser()[pri:0, instance:org.cuskwake.SectorsTest@56ac3a89]" name="lauchBrowser" is-config="true" duration-ms="51624" started-at="2018-01-03T18:26:56Z" finished-at="2018-01-03T18:27:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method status="PASS" signature="sectorsCushWake()[pri:0, instance:org.cuskwake.SectorsTest@56ac3a89]" name="sectorsCushWake" duration-ms="32615" started-at="2018-01-03T18:27:47Z" finished-at="2018-01-03T18:28:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sectorsCushWake -->
+        <test-method status="PASS" signature="closeFBApp()[pri:0, instance:org.cuskwake.SectorsTest@56ac3a89]" name="closeFBApp" is-config="true" duration-ms="824" started-at="2018-01-03T18:28:20Z" finished-at="2018-01-03T18:28:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFBApp -->
+      </class> <!-- org.cuskwake.SectorsTest -->
+      <class name="org.cuskwake.AboutUsTest">
+        <test-method status="PASS" signature="lauchBrowser()[pri:0, instance:org.cuskwake.AboutUsTest@1e397ed7]" name="lauchBrowser" is-config="true" duration-ms="80097" started-at="2018-01-03T18:19:34Z" finished-at="2018-01-03T18:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method status="FAIL" signature="aboutUsCushWake()[pri:0, instance:org.cuskwake.AboutUsTest@1e397ed7]" name="aboutUsCushWake" duration-ms="23021" started-at="2018-01-03T18:20:54Z" finished-at="2018-01-03T18:21:17Z">
+          <exception class="org.openqa.selenium.ElementNotVisibleException">
+            <message>
+              <![CDATA[element not visible
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'EBII432F1', ip: '172.16.36.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\27409\AppData\Local\Temp\scoped_dir14852_29086}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=63.0.3239.84, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6e9f793349fc1de44f4615f3089f739]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotVisibleException: element not visible
+  (Session info: chrome=63.0.3239.84)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.15063 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'
+System info: host: 'EBII432F1', ip: '172.16.36.19', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_144'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f), userDataDir=C:\Users\27409\AppData\Local\Temp\scoped_dir14852_29086}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=63.0.3239.84, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: b6e9f793349fc1de44f4615f3089f739
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:215)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:167)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:275)
+	at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:82)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)
+	at com.sun.proxy.$Proxy12.click(Unknown Source)
+	at org.utility.Base.btnClick(Base.java:102)
+	at org.cuskwake.AboutUsTest.aboutUsCushWake(AboutUsTest.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotVisibleException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutUsCushWake -->
+        <test-method status="PASS" signature="closeFBApp()[pri:0, instance:org.cuskwake.AboutUsTest@1e397ed7]" name="closeFBApp" is-config="true" duration-ms="837" started-at="2018-01-03T18:21:17Z" finished-at="2018-01-03T18:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFBApp -->
+      </class> <!-- org.cuskwake.AboutUsTest -->
+      <class name="org.cuskwake.ServicesTest">
+        <test-method status="PASS" signature="lauchBrowser()[pri:0, instance:org.cuskwake.ServicesTest@490ab905]" name="lauchBrowser" is-config="true" duration-ms="71050" started-at="2018-01-03T18:23:25Z" finished-at="2018-01-03T18:24:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchBrowser -->
+        <test-method status="PASS" signature="serviceCushWake()[pri:0, instance:org.cuskwake.ServicesTest@490ab905]" name="serviceCushWake" duration-ms="36232" started-at="2018-01-03T18:24:36Z" finished-at="2018-01-03T18:25:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serviceCushWake -->
+        <test-method status="PASS" signature="closeFBApp()[pri:0, instance:org.cuskwake.ServicesTest@490ab905]" name="closeFBApp" is-config="true" duration-ms="837" started-at="2018-01-03T18:25:13Z" finished-at="2018-01-03T18:25:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeFBApp -->
+      </class> <!-- org.cuskwake.ServicesTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
